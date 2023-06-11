@@ -1,0 +1,22 @@
+{
+  "name": "romulowspp",
+  "version": "0.0.1",
+  "description": "<!--\r **romulowspp/romulowspp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/romulowspp/romulowspp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/romulowspp/romulowspp/issues"
+  },
+  "homepage": "https://github.com/romulowspp/romulowspp#readme",
+  "dependencies": {
+    "mustache": "^4.2.0"
+  }
+}
